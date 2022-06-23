@@ -1,6 +1,6 @@
 - 👋 Oi! Tudo bem? Meu nome é  @analuizafiths
 
-- 👀 I’m interested in aprender mais sobre tecnologia
+- 👀 estou interessada em aprender  mais sobre tecnologia
 
-- 🌱 I’m currently learning programar (recentemente JavaScript e Scratch)
+- 🌱 estou aprendendo a programar(recentemente JavaScript e Scratch)
 
