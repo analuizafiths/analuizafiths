@@ -2,5 +2,5 @@
 
 - 👀 estou interessada em aprender  mais sobre tecnologia...
 
-- 🌱 aprendendo a programar:(recentemente JavaScript e Scratch). 
+- 🌱 estou aprendendo a programar:(recentemente JavaScript e Scratch). 
 
