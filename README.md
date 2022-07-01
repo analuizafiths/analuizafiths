@@ -2,7 +2,7 @@
 
 - 👀 estou interessada em aprender  mais sobre tecnologia...
 
-- 🌱 estou aprendendo a programar com o Alura.
+- 🌱 aprendendo a programar com o Alura.
 
 - 💻 recentemente programei nas linguagens:Scracht e JavaScript.
 
