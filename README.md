@@ -2,7 +2,11 @@
 
 - 👀 estou interessada em aprender  mais sobre tecnologia...
 
-- 🌱 atualmente estou aprendendo a programar com o Alura.
+- 🌱 estou aprendendo a programar com o Alura.
 
-- 📧 ana.fiths@escola.pr.gov.br
+- 💻 recentemente programei nas linguagens:Scracht e JavaScript.
+
+- 👩‍💻 agora estou cursando html5 e css3.
+
+- 📧 contato: ana.fiths@escola.pr.gov.br
 
